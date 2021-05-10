@@ -1,0 +1,4 @@
+.login_form {
+  position: fixed; /* or absolute */
+  top: 30%;
+}
