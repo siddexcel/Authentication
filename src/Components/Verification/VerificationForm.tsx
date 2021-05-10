@@ -24,8 +24,6 @@ const VerificationForm = () => {
     history.push("/");
   };
 
-  console.log(response.current)
-
   return (
     <div className="verification_form bg-white rounded shadow p-4">
       <Form onSubmit={handleSubmit}>
