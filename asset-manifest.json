@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/authentication/static/css/main.acade1f5.chunk.css",
+    "main.js": "/authentication/static/js/main.352c6463.chunk.js",
+    "main.js.map": "/authentication/static/js/main.352c6463.chunk.js.map",
+    "runtime-main.js": "/authentication/static/js/runtime-main.55054399.js",
+    "runtime-main.js.map": "/authentication/static/js/runtime-main.55054399.js.map",
+    "static/js/2.6932156c.chunk.js": "/authentication/static/js/2.6932156c.chunk.js",
+    "static/js/2.6932156c.chunk.js.map": "/authentication/static/js/2.6932156c.chunk.js.map",
+    "static/js/3.7ee9c1b6.chunk.js": "/authentication/static/js/3.7ee9c1b6.chunk.js",
+    "static/js/3.7ee9c1b6.chunk.js.map": "/authentication/static/js/3.7ee9c1b6.chunk.js.map",
+    "index.html": "/authentication/index.html",
+    "static/css/main.acade1f5.chunk.css.map": "/authentication/static/css/main.acade1f5.chunk.css.map",
+    "static/js/2.6932156c.chunk.js.LICENSE.txt": "/authentication/static/js/2.6932156c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55054399.js",
+    "static/js/2.6932156c.chunk.js",
+    "static/css/main.acade1f5.chunk.css",
+    "static/js/main.352c6463.chunk.js"
+  ]
+}
