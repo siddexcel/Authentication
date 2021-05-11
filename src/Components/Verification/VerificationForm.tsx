@@ -24,7 +24,7 @@ const VerificationForm = () => {
         response.current = value;
         if (value.data.success) {
           history.push("/home");
-        } else {
+        } else if (!value.data.success) {
           alert("Incorrect otp, Please try again.");
           history.push("/");
         }
